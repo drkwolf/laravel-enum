@@ -4,7 +4,7 @@ namespace MadWeb\Enum\Test;
 
 class EnumLabelsTest extends TestCase
 {
-    protected function setUp()
+    protected function setUp() : void
     {
         parent::setUp();
 
